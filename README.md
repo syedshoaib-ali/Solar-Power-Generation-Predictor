@@ -1,6 +1,12 @@
 # Solar-Power-Generation-Predictor
 Solar energy output prediction using optimized XGBoost regression with scaled environmental features and an interactive Streamlit UI.
 
+## 🔗 Live Solar Power Prediction App
+Click below to use the deployed application:
+
+🌐 (https://solar-power-generation-predictor.streamlit.app/)
+
+
 Machine Learning Regression Project using XGBoost & Streamlit
 
 📌 Project Overview
